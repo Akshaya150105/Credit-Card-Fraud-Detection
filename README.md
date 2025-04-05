@@ -32,7 +32,7 @@ Traditional machine learning models expose input and output values during infere
 
 ---
 
-## 🧰 Libraries Used
+##  Libraries Used
 
 - `numpy`, `pandas`, `seaborn`
 - `ope` (for Order-Preserving Encryption)
